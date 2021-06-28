@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+  color: #010101;
+}
+
+/* normalazing */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  margin: 0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a,
+select,
+input,
+textarea,
+button {
+  outline: none !important;
+}
+
+/* colors */
+.c-tag-1 {
+  color: #fff;
+}
+
+/* background colors */
+.bg-tag-1 {
+  background-color: #010101;
+}
+
+/* fonts */
+.bold-22 {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+/* header starts */
